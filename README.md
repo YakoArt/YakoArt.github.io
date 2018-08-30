@@ -1,6 +1,6 @@
 # YakoArtLearn
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8. Look at [build](https://yakoart.github.io/build/index.html) version.
 
 ## Development server
 
